@@ -1,0 +1,12 @@
+
+
+
+Java Persistence
+with Hibernate
+S ECOND EDITION
+CHRISTIAN BAUER
+GAVIN KING
+GARY GREGORY
+
+3.1.1 A layered architecture
+https://hoclaptrinhdanang.com/downloads/pdf/spring/Java%20Persistence%20with%20Hibernate.pdf
